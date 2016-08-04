@@ -1,0 +1,54 @@
+_repo: A-Double-Barrelled-Detective-Story_3180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "A Double Barreled Detective Story is a short story/novelette by Mark\
+  \ Twain (Samuel Clemens), in which Sherlock Holmes finds himself in the American\
+  \ west.\nThe story contains two arcs of revenges. In the primary arc, a woman was\
+  \ abused, humiliated and abandoned by her fiancé Jacob Fuller, while she bore his\
+  \ child. The child was born and named Archy Stillman and when he got older, the\
+  \ mother discovered that the child possessed an incredible ability of smell, like\
+  \ a bloodhound. The mother instructed her child, now sixteen, to seek out his biological\
+  \ father, destroy that man’s peace and reputation, hence extract satisfaction for\
+  \ her.\nFive years later in a second arc, at a mining camp in California, Fetlock\
+  \ Jones, a nephew of Sherlock Holmes, killed his master Flint Buckner, a silver-miner,\
+  \ by blowing up his cabin. Since this occurs when Holmes happened to be visiting,\
+  \ Holmes applied his skills to bear upon the case and derived a logically worked\
+  \ conclusion that was proved to be abysmally wrong by Archy Stillman using his sense\
+  \ of smell. This could be seen as yet another piece where Twain tried to prove that\
+  \ life does not quite follow logic.\nThis is a satire by Twain on the mystery novel\
+  \ genre. In the second arc, Sherlock Holmes was depicted in employing \"scientific\
+  \ methods\" to a ridiculous degree, yet arriving at a completely wrong assessment.\
+  \ On the other hand, the crime was solved with a supernatural ability that no normal\
+  \ human possesses. Yet even that could fail to reveal the whole truth as the final\
+  \ twist of the story indicated.\nFurthermore, Sam Clemens/Mark Twain poked through\
+  \ the \"4th wall\" and appeared as himself in the middle of the story, supposedly\
+  \ while the story was being serialized, and responded to letters sent in by readers\
+  \ to the newspaper editor. During the exchange, Twain made fun of/self-advertised\
+  \ on some of his other famous short stories.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3180'
+  wikidata: Q16155864
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: A Double Barrelled Detective Story
+url: http://www.gutenberg.org/ebooks/3180
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Double_Barrelled_Detective_Story
