@@ -1,5 +1,8 @@
 _repo: A-Double-Barrelled-Detective-Story_3180
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -35,6 +38,8 @@ description: "A Double Barreled Detective Story is a short story/novelette by Ma
   \ while the story was being serialized, and responded to letters sent in by readers\
   \ to the newspaper editor. During the exchange, Twain made fun of/self-advertised\
   \ on some of his other famous short stories.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3180#A-Double-Barrelled-Detective-Story
 gutenberg_issued: '2004-09-16'
 gutenberg_type: Text
 identifiers:
